@@ -1,9 +1,0 @@
-{
-  "name": "doomscroll",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Doodle Jump up an endless X feed, playable inside a post",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
